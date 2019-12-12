@@ -1,0 +1,5 @@
+DLND Project5
+AWS
+Here is a blog post on a general summary of the use cases of sagemaker: https://hackernoon.com/should-i-use-amazon-sagemaker-for-deep-learning-dc4ae6b98fab
+
+Probably you want to consider to try IBM Watson services which offer related functionalities? https://www.ibm.com/watson/products-services/
